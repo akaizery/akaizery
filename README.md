@@ -2,7 +2,7 @@
 
 ### Certified JavaScript Powered Person
 
-- 👨‍💻 All of my projects are available at **[https://akaizery.dev](https://akaizery.dev)**
+- 👨‍💻 My own corner of the Internet can be found here -> **[https://akaizery.dev](https://akaizery.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
